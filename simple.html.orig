@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--
+	Copywrite me! I am the best
+ -->
+<head>
+<<<<<<< HEAD
+	<title>Simple, modest title. Nice :)</title>
+=======
+	<title>This is the best title. Not changing!</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			To be or not to be...
+=======
+			This is the story of You!
+>>>>>>> realwork
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2023</p>
+	</footer>
+</body>
+</html>
